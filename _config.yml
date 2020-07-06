@@ -2,8 +2,7 @@
 title: Chowdown
 email: hessel@tjeerdsma.eu
 description: The plain text recipe database for hackers
-baseurl: "/chowdown" 
-#url: "https://recipes.tjeerdsma.eu"
+baseurl: "" 
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
