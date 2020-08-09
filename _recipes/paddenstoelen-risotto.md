@@ -6,8 +6,8 @@ tags: dinners
 
 ingredients:
 - 1,5 liter hete paddestoelenbouillon
- -1 kleine ui, gepeld en fijngehakt
- -400 g risottorijst
+- 1 kleine ui, gepeld en fijngehakt
+- 400 g risottorijst
 - 1,5 dl witte wijn
 - 300 gr wilde paddenstoelen (shiitakes, cantharellen, kastanjechampignons of oesterzwammen)
 - Handjvol peterselie
