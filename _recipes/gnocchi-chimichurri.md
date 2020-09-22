@@ -1,4 +1,4 @@
-image: chimichurrijpg
+image: chimichurri.jpg
 tags: dinners
 
 ingredients:
