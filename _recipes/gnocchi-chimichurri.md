@@ -1,3 +1,6 @@
+---
+layout: recipe
+title:  "Gnocchi chimichurri"
 image: chimichurri.jpg
 tags: dinners
 
